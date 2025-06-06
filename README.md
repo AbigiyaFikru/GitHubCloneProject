@@ -1,1 +1,1 @@
-Objective: Demonstrate branching, merging, and conflict resolution.
+Modification in feature-greeting branch.
